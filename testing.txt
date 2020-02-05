@@ -1,6 +1,6 @@
 testing here
 im adding text here
-
-hello
 difference in file
-adding through master
+<<<<<<< HEAD
+
+>>>>>>> 19ca492a94d2e9702956a25622431955eb370826
